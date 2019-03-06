@@ -1,0 +1,6 @@
+-laravel 5.4
+-composer
+-artisan
+-node js
+-npm install
+-xampp
